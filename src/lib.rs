@@ -1,3 +1,6 @@
+//! This is a simple crate to modularize winit such that ui implementations can
+//! be reused
+
 use std::fmt::Debug;
 use thiserror;
 use winit;
